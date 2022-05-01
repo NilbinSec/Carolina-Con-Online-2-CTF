@@ -1,6 +1,4 @@
 # Carolina-Con-Online-2-CTF
-NilbinSec
-
 <b> Carolina Con Online 2 CTF Writeup</b>
 
 This repo covers NilbinSec's participation in the CTF during Carolina Con Online 2. Carolina Con is a infosec/hacking conference hosted out of North Carolina that has been online due to COVID-19. Last year, Carolina Con's CTF was NilbinSec's first CTF and this year's did not disappoint with a good mixture of entry level flags moving up to very difficult problems we were unable to solve. 
